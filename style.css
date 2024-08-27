@@ -1,0 +1,201 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: absolute;
+}
+
+/* ---------------- phone ------------------ */
+
+.img1{
+    width:500px;
+    height: 600px;
+    position: absolute;
+    left:200px;
+    top: 30px;
+    
+}
+.img6{
+    width: 274px;
+    height: 430px;
+    position: absolute;
+    top: 115px;
+    left: 360px;
+}
+
+/* ---------------- section1 ------------------ */
+
+.sec1{
+    width: 425px;
+    height: 450px;
+    border: 2px  solid;
+    background-color: white;
+    position:absolute;
+    left: 800px;
+    top: 20px;
+    border-color: rgb(198, 195, 195);
+    
+}
+
+.img2{
+
+    width: 170px;
+    height: 60px;
+    position: relative;
+    top:40px;
+    left:130px;
+}
+
+.inp1{
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    position: relative;
+    top: 60px;
+    left:60px;
+    padding: 20px;
+    background-color: rgb(194, 218, 242);
+}
+
+.div2{
+    padding: 5px;
+    position: absolute;
+}
+.inp2{
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    position: relative;
+    top: 60px;
+    left:55px;
+    padding: 20px;
+    background-color: rgb(194, 218, 242);
+   
+}
+
+.btn1{
+    width: 70px;
+    height: 55px;
+    border-radius: 5px;
+    position:relative;
+    top: 60px;
+    right: 21px;
+    padding: 20px;
+    background-color: rgb(237, 237, 246);
+    border-style: none;
+}
+.btn2{
+    position: relative;
+    width: 300px;
+    height:40px;
+    top: 150px;
+    left:60px;
+    border-radius: 7px;
+    background-color: rgb(74, 144, 205);
+    color: white;
+    border-style: none;
+}
+.img3{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    right: 175px;
+    top: 235px;
+}
+
+.p1{
+    position: relative;
+    top:200px;
+    left: 160px;
+}
+.p2{
+    position: relative;
+    top:230px;
+    left: 140px;
+}
+
+/* ----------------- section2 ----------------- */
+
+.sec2{
+    width: 425px;
+    height: 70px;
+    border: 2px solid;
+    position: absolute;
+    left: 800px;
+    top: 480px;
+    border-color: rgb(198, 195, 195);
+    
+}
+
+.p3{
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+.a1{
+    position: relative;
+    left:235px;
+    text-decoration: none;
+    color: rgb(45, 110, 179);
+
+}
+
+/* ----------------- section3 ----------------- */
+.sec3{
+    width: 425px;
+    height: 90px;
+    border: 2px solid;
+    position: relative;
+   left: 800px;
+   top: 60px;
+    border-style: none;
+}
+.p4{
+    position: relative;
+    top: 500px;
+    left: 150px;
+    
+}
+.img4{
+    position: relative;
+    width: 155px;
+    height: 40px;
+    top: 510px;
+    left: 30px;
+}
+.img5{
+    position: relative;
+    width:155px;
+    height: 40px;
+    top: 510px;
+    left: 40px;
+}
+
+/* ---------------- footer ------------------ */
+.sec4{
+    position: relative;
+    top: 600px;
+}
+.ftr{
+    position: relative;
+    left: 40%;
+    top: 50%;
+    font-size: 20px;
+    color: gray;
+}
+.ftr1{
+    position: relative;
+    left: 50%;
+    font-size: 20px;
+    color: gray;
+}
+
+.copyright{
+    position: relative;
+    left: 60%;
+    font-size: 20px;
+    color: gray;
+}
